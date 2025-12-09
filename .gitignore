@@ -1,0 +1,24 @@
+# Variables de entorno (SECRETOS - NO SUBIR)
+.env
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+
+# Base de datos (si es grande)
+movies_clean.csv
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp

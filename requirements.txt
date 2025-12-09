@@ -1,0 +1,21 @@
+# Bot de Telegram
+python-telegram-bot==21.0
+
+# IA y Chat
+groq==0.11.0
+
+# Procesamiento de datos
+pandas==2.2.0
+numpy==1.26.3
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# Procesamiento de lenguaje natural
+nltk==3.8.1
+
+# Variables de entorno
+python-dotenv==1.0.1
+
+# HTTP requests (para fetch_tmdb.py)
+requests==2.31.0
