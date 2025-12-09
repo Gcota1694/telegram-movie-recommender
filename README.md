@@ -205,9 +205,6 @@ pip install python-dotenv
 ### Error: "ValueError: Falta archivo .env"
 Asegúrate de crear el archivo `.env` con tus credenciales.
 
-
-**Tu Nombre** - [GitHub](https://github.com/TU_USUARIO)
-
 ## 🙏 Agradecimientos
 
 - [TMDB](https://www.themoviedb.org/) por proporcionar la API de películas y series
