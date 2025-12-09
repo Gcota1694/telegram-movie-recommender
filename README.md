@@ -205,11 +205,6 @@ pip install python-dotenv
 ### Error: "ValueError: Falta archivo .env"
 Asegúrate de crear el archivo `.env` con tus credenciales.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
 
 **Tu Nombre** - [GitHub](https://github.com/TU_USUARIO)
 
